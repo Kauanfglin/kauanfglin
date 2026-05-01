@@ -1,10 +1,8 @@
 # Kauan Nascimento
 
-Estudante de Engenharia da Computação, focado em backend e dados. Gosto de entender como as coisas funcionam por baixo — bancos de dados, estruturas de dados, sistemas.
+Estudante de Engenharia da Computação, focado em dados. 
 
-Ainda estou construindo meu caminho, mas já tenho projetos reais e estudo com consistência.
 
----
 
 ## O que eu uso
 
