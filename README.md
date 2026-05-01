@@ -4,7 +4,7 @@ Estudante de Engenharia da Computação, focado em dados.
 
 
 
-## O que eu uso
+## O que eu estou aprendendo
 
 **Linguagens:** Python · JavaScript · C · SQL  
 **Dados:** Pandas  
