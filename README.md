@@ -12,11 +12,6 @@ Estudante de Engenharia da Computação, focado em dados.
 
 ---
 
-## Projetos
-
-**[Sistema de Loja em Python](link)** — simulação de gerenciamento de loja, foco em lógica e estruturas de dados  
-**[Análise com Pandas](link)** — limpeza e exploração de dados reais  
-**[Monitoramento com API](link)** — consumo de APIs externas com JavaScript
 
 ---
 
